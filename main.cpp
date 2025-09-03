@@ -9,5 +9,5 @@ double  kg = weight * .453592;
 double m = height * 0.0254;
 double BMI = kg / (m * m); 
 
-cout << "the BMI for this person is:  = " << BMI << endl;
+cout << "the BMI for this person is:  = " << BMI << "." << endl;
 }
